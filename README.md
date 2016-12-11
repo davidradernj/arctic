@@ -18,8 +18,12 @@ Arctic has been under active development at [Man AHL](http://www.ahl.com/) since
 
 ## Quickstart
 
-### Install Arctic
+#### Pre-reqs
+```
+pip install Cython six
+```
 
+### Install Arctic
 ```
 pip install git+https://github.com/manahl/arctic.git
 ```
